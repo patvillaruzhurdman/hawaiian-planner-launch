@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="236px" height="18px" viewBox="0 0 236 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Brand</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Launch-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-132.000000, -38.000000)">
+        <g id="Brand-+-Tagline" transform="translate(135.000000, 40.000000)">
+            <g id="Brand">
+                <text id="HAWAIIAN-PLANNER" font-family="BentonSans-Bold, BentonSans" font-size="18" font-weight="bold" fill="#E57373">
+                    <tspan x="46" y="14">HAWAIIAN PLANNER</tspan>
+                </text>
+                <g stroke="#E57373" stroke-width="2">
+                    <polygon id="Triangle" points="23 0 36 15 10 15"></polygon>
+                    <polyline id="Triangle" points="26 15 0 15 13 0 13 0"></polyline>
+                    <path d="M27.3208008,5.75170898 L24.400237,8.67227279" id="Path-2"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
